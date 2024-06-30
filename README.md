@@ -16,10 +16,17 @@ Para executar o código, siga os passos abaixo:
      </dependencies>
      ```
 
-3. Configuração de Threads e Capitais:
+3. Organização do Projeto:
+- Dentro da pasta src/main/java, crie um package com o nome desejado para o projeto.
+
+4. Adição dos Arquivos do GitHub:
+- Baixe os arquivos necessários do GitHub e adicione-os ao package criado na etapa anterior.
+- Certifique-se de excluir o arquivo pom.xml se ele estiver presente nos arquivos baixados, pois já foi configurado anteriormente.
+
+5. Configuração de Threads e Capitais:
    - No código da classe `Main`, localize e ajuste as variáveis nas linhas 8 e 9 para definir o número específico de threads e de capitais por thread conforme necessário.
 
-4. Execução:
+6. Execução:
    - Após configurar o projeto e ajustar as variáveis conforme desejado, execute o código.
 
 Este procedimento permite configurar e executar o código com a especificação de threads e capitais de acordo com os requisitos do experimento.
