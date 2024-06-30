@@ -17,7 +17,7 @@ Para executar o código, siga os passos abaixo:
      ```
 
 3. Organização do Projeto:
-- Dentro da pasta src/main/java, crie um package com o nome desejado para o projeto.
+- Dentro da pasta src/main/java, crie um package com o nome "apijava" para o projeto.
 
 4. Adição dos Arquivos do GitHub:
 - Baixe os arquivos necessários do GitHub e adicione-os ao package criado na etapa anterior.
